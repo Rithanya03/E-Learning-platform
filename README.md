@@ -28,7 +28,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/your-username/e-learning-platform.git
+git clone https://github.com/Rithanya03/e-learning-platform.git
 cd e-learning-platform
 Install dependencies:
 
@@ -115,6 +115,7 @@ e-learning-platform/
 │   │   ├── courses.js
 │   │   ├── quizzes.js
 │   │   └── sample-papers.js
+
 │   ├── models/
 │   │   ├── user.js
 │   │   ├── course.js
@@ -128,6 +129,7 @@ e-learning-platform/
 │   └── config/
 │       └── db.js
 │
+
 ├── frontend/
 │   ├── index.html
 │   ├── css/
@@ -137,7 +139,7 @@ e-learning-platform/
 │
 └── .env
 Technologies Used
-Frontend: HTML, CSS, JavaScript
+Frontend: HTML, CSS, JavaScript, Reactjs
 Backend: Node.js, Express.js
 Database: MySQL
 Contributing
